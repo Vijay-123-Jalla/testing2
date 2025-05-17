@@ -1,3 +1,7 @@
 System.out.println("Done");
+<<<<<<< HEAD
 System.out.println("creating conflict in local");
 
+=======
+System.out.println("creating conflict in local");
+>>>>>>> a0cb1d9e28c1bc13ff442ed7ed61878c8a6c4c12
